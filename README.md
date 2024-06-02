@@ -10,4 +10,4 @@
 
    Simple Interest = p * t * R
 <br>
-<h6>&copy; 2022 XYZ,Inc.</h6>
+<h6>&copy; 2023 XYZ,Inc.</h6>
