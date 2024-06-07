@@ -8,6 +8,5 @@
    
 <h3>Output:</h3>
 
-   Simple Interest = p * t * R
-<br>
+   Simple Interest = p * t * r <br>
 <h6>&copy; 2023 XYZ,Inc.</h6>
